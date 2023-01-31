@@ -2,6 +2,10 @@
 
 Crypto gains and losses tax calculator for Solana wallets.
 
+Pitch deck: https://www.canva.com/design/DAFYZYFXA84/tPhIyq_vOgrF40ZlfF7OXA/view?utm_content=DAFYZYFXA84&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+Demo: https://www.youtube.com/watch?v=IStbMsFPdZY&feature=youtu.be
+
 ## Terminals
 
 1. Sveltekit - `npm run dev`
