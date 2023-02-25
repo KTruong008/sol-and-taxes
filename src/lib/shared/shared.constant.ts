@@ -11,7 +11,8 @@ export const notifcationSettings = {
   removeAfter: 2500
 };
 
-export const appWalletAddress = `H9WkayXQGQpypA3rBSFKF1iRq7dyrN7Mo99CLvG8M6og`;
+// Update this to wallet where payments go
+export const appWalletAddress = ``;
 
 // https://docs.helius.xyz/api-reference/transaction-types
 export const TRANSACTION_TYPE_TO_SOURCE = {
