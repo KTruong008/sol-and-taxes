@@ -192,7 +192,6 @@ update_permissions:
 delete_permissions:
   - role: user
     permission:
-      backend_only: false
       filter:
         wallet_address:
           _eq: X-Hasura-User-Id
